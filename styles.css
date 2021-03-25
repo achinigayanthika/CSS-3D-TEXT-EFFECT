@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: cursive;
+}
+
+div {
+  font-size: 10rem;
+  color: #efefef;
+  font-weight: 700;
+  text-shadow: 5px 5px 5px #eb452b,
+               10px 10px 5px #ff7b25,
+               15px 15px 5px #82b74b,
+               20px 20px 5px #405d27,
+               25px 25px 5px #186dcf,
+               30px 30px 5px #c11a2b,
+               35px 35px 5px #c11a2b,
+               40px 40px 5px #c11a2b,
+               45px 45px 5px #c11a2b;
+}
